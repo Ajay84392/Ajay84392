@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Ajay Singh 👋</h1>
 <h3 align="center">Full-Stack Developer · Laravel · Next.js · Flutter</h3>
 
 <p align="center">
